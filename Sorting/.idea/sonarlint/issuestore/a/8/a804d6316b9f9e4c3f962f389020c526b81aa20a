@@ -1,0 +1,7 @@
+
+a
+java:S1301("KReplace this "switch" statement by "if" statements to increase readability.(Ç²ú¬
+<	java:S131""Add a default case to this switch.(Ã¹Š¦ÿÿÿÿÿ
+7	java:S131(""Add a default case to this switch.(Ç²ú¬
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(š¶ð£úÿÿÿÿ

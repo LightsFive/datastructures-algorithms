@@ -1,0 +1,7 @@
+
+G
+java:S1602",Remove useless curly braces around statement(âÑşùÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(µ³ÂÍúÿÿÿÿ
+M
+java:S2201""+The return value of "collect" must be used.(–ø´•ùÿÿÿÿ8ö³€¥–1

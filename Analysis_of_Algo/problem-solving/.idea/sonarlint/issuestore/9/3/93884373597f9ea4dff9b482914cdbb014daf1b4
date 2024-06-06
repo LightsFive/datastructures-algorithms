@@ -1,0 +1,13 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "sum =" 9 times.(ó©Ê–øÿÿÿÿ8ÿé¾ÆÃ1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å·ê8¸ê¾ÆÃ1
+L	java:S106"+Replace this use of System.out by a logger.(ó©Ê–øÿÿÿÿ8¿ê¾ÆÃ1
+G	java:S106"+Replace this use of System.out by a logger.(ÊÉĞº8Âê¾ÆÃ1
+G	java:S106"+Replace this use of System.out by a logger.(Ö¹“ü8Åê¾ÆÃ1
+L	java:S106 "+Replace this use of System.out by a logger.(‹Ø§Óøÿÿÿÿ8Êê¾ÆÃ1
+L	java:S106""+Replace this use of System.out by a logger.(éÕşùÿÿÿÿ8ç‚ÃÆÃ1
+L	java:S106#"+Replace this use of System.out by a logger.(ØĞ–¤ıÿÿÿÿ8ê‚ÃÆÃ1
+L	java:S106$"+Replace this use of System.out by a logger.(·Ûãüÿÿÿÿÿ8ì‚ÃÆÃ1
+G	java:S106%"+Replace this use of System.out by a logger.(º Î´8î‚ÃÆÃ1
+G	java:S106&"+Replace this use of System.out by a logger.(‡˜ªÚ8ß›ÅÆÃ1

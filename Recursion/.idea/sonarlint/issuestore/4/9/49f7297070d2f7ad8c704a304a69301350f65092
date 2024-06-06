@@ -1,0 +1,7 @@
+
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(†™ñ‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(†™ñ‹
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–²‘ñúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+V	java:S125!"<This block of commented-out lines of code should be removed.(å©ìÜýÿÿÿÿ

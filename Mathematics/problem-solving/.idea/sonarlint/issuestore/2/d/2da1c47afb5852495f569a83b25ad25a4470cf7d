@@ -1,0 +1,10 @@
+
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£ùé‚ùÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş§‰‰şÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ûÜµê
+@	java:S106"+Replace this use of System.out by a logger.(ÍáÚ
+?	java:S106&"+Replace this use of System.out by a logger.(‹”…
+E	java:S106'"+Replace this use of System.out by a logger.(úúê¸üÿÿÿÿ
+E	java:S106("+Replace this use of System.out by a logger.(‚´ìÂùÿÿÿÿ
+E	java:S106)"+Replace this use of System.out by a logger.(ˆÖóøÿÿÿÿ
+E	java:S106*"+Replace this use of System.out by a logger.(½İ÷¼ıÿÿÿÿ

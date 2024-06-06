@@ -1,0 +1,12 @@
+Hibernate
+
+  There is a MyProduct class ( ID, NAME & Description )
+if you delete MyLineItem, then MyProduct should exist ( ID , QUANTITY & PRODUCT )
+if you delete MYOrder, then all MyLineItem must be deleted. ( ID , NAME & ARRAY of LineItem )
+
+
+
+
+Java 8
+String strSentence = "Hi EPAM bye EPAM goodbye EPAM welcome ePAM Hi There epAM bye bye EPaM";
+// Output should be exactly like --> {BYE-3 ,EPAM-6, HI-2}

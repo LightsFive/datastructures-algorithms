@@ -1,0 +1,22 @@
+
+_
+java:S1192<"IDefine a constant instead of duplicating this literal "Krishna" 16 times.(µ­ö¤
+O
+java:S2121"9Remove this "substring" call; it has predictable results.(ÓŞíé
+L
+java:S26927"10 is a valid index, but is ignored by this check.(Öƒøºÿÿÿÿÿ
+N	java:S106<"9Replace this use of System.out or System.err by a logger.(µ­ö¤
+S	java:S106="9Replace this use of System.out or System.err by a logger.(¯Ö‰ôûÿÿÿÿ
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(š¬‰Ìüÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(ùÌ±¬üÿÿÿÿ
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(¿Ì¬ı
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(Ê¬Èüÿÿÿÿ
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(„¼ÃĞûÿÿÿÿ
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(ÊÚùşÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(«¸Û¨üÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(½ÿ 
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(§”æúÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(ÙİûÍıÿÿÿÿ
+S	java:S106K"9Replace this use of System.out or System.err by a logger.(û’Çúÿÿÿÿ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(îÎùÚ
+N	java:S106M"9Replace this use of System.out or System.err by a logger.(’Ì‰Á
